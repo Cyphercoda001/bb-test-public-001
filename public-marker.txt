@@ -1,0 +1,2 @@
+PUBLIC-CONTROL-bb-test-public-001-cyphercoda001
+This is the control case for cross-tenant probes. Public content, expected to be reachable by any actor.
